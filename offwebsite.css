@@ -1,0 +1,77 @@
+.off 
+{
+    background-color: gray;
+    text-align: right;
+    padding: 20px;
+}
+.off li 
+{
+    list-style-type: none;
+    display: inline;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 20px;
+    background-color: black;
+    border-radius: 5px;
+}
+ul.off a 
+{
+ text-decoration: none;
+ color: white;
+}
+
+ul a:hover 
+{
+    color: blue;
+    font-size: 25px;
+}
+body 
+{
+background-color: rosybrown
+}
+.pap
+{
+ text-align: center;
+ background-color: black;
+ color:darkgray;
+ font-size: 30px;
+ 
+
+}
+h1 {
+    font-size: 60px;
+}
+
+/* login page css */
+form li
+{
+list-style-type: none;
+margin-bottom: 20px;
+}
+ul 
+{
+    padding-left: 0px;
+}
+label 
+{
+    display: block;
+}
+form ul
+{
+background-color: rgb(61, 61, 151);
+}
+form 
+{
+width: 500px;
+text-align: center;
+margin: auto;
+}
+.pap 
+{
+    display: inline-block;
+}
+.pap p
+{
+float: left;
+/* margin: 30px; */
+}
